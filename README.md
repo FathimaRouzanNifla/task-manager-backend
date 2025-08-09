@@ -53,8 +53,7 @@ docs/TaskManager.postman_collection.json
 Import it into Postman to test all endpoints with example requests.
 
 ## Deployment
-## Backend
-Deployed on Railway
+## Backend Deployed on Railway
 Make sure environment variables are set correctly (MongoDB URI, JWT secret, etc.)
 
 ## Frontend
