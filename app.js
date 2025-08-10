@@ -23,7 +23,7 @@ mongoose.connect(process.env.MONGO_URI)
 
 // Friendly root route for base URL check
 app.get('/', (req, res) => {
-  res.send('Task Manager API is running ✅');
+  res.send('Task Manager API is running');
 });
 
 // Routes
